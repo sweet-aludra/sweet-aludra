@@ -1,19 +1,22 @@
+
+<img align="right" alt="" width="330px" height="220px" hspace="20px" src="GIF2.gif">
+
 <div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9BBCAC&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
-<p align="left">bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb</p>
+<p align="left">
+  Formada em Análise e Desenvolvimento de Sistemas, com 4 anos de estudos e prática em análise de requisitos, testes manuais, UI/UX Design e desenvolvimento fUll-stack. &#9749
+</p>
 
 <div align="left">
   <h3>Connect with me!</h3>
-  
-  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:adryps71@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/adryelle-silva-719828267?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-</div>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:adryps71@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/adryelle-silva-719828267)
+</div>
 
 #
 
