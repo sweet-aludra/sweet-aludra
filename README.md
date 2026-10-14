@@ -1,5 +1,5 @@
 
-<img align="right" alt="" width="330px" height="220px" hspace="20px" src="GIF2.gif">
+<img align="right" alt="" width="330px" height="220px" src="GIF2.gif">
 
 <div align="left">
   <a href="https://git.io/typing-svg">
