@@ -1,6 +1,7 @@
-<table>
+
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%" valign="middle">
+    <td width="60%" valign="middle" border="0">
       <div align="left">
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9BBCAC&random=false&width=450&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
@@ -21,11 +22,12 @@
       </a>
     </td>
 
- <td width="40%" align="center" valign="middle">
+  <td width="40%" align="center" valign="middle" border="0">
       <img src="GIF2.gif" width="300" alt="GIF decorativo">
     </td>
   </tr>
 </table>
+
 
 <h3 align="left">My Stack ~</h3>
 
